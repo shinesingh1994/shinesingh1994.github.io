@@ -24,7 +24,8 @@ author:
   linkedin: singh1994
   twitter: abhijeet_shine
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow: 5196867
+  stackoverflow:
+  #  stackoverflow: 5196867
   workHistory:
     - work1:
       company: XXX Ltd
