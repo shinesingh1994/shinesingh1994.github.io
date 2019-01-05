@@ -32,53 +32,56 @@ author:
       title: Research Assistant - AI
       started: 2018
       duration: (2018 - Present)
-      description: Designing Artificial Intelligence(AI) solutions and systems for clients \n Coding and development of models and frameworks \n Implementation of Machine Learning in native mobile applications \n Regular consultation of and briefing sessions with clients \n Working with project-based teams \n General project management responsibilities
+      description: Designing Artificial Intelligence(AI) solutions and systems for clients - Coding and development of models and frameworks - Implementation of Machine Learning in native mobile applications - Regular consultation of and briefing sessions with clients - Working with project-based teams - General project management responsibilities
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Times Internet Ltd.
+      location: India
+      title: Software Developer
+      started: 2015
+      duration: (2015 - 2018)
+      description: Worked on the leading portal The Economics Times (www.economictimes.com) - Skill Set - Core Skills – Javascript | HTML | CSS - Javascript Libraries – jQuery | Angular(2+) | ReactJS | Express | Node Platform  - CSS Preprocessors / Frameworks – Bootstrap  - Data Visualization – Google Charts  - Build Tools – Webpack - Versioning Tools – Git  - Backend Environments – XSLT | NodeJS - Optimization Tools – GTmetrix | Google  - Other Tools Used – Photoshop | Sublime | Visual Studio Code | Zeplin | MySQL
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: CERT India, Government of Communications & IT
+      location: India
+      title: Internship
+      started: 2014
+      duration: (2014 - 2014)
+      description: Developed a Web Application in C# - Automated Email Header Analysis - Used to check cyber crimes by tracing spam mailers.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: Guru Gobind Singh Indraprastha University
+      location: India
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Information Technology
+      started: 2011
+      duration: (2011 - 2015)
+      description: Event Head in Sports Meet, Program Coordinator at Annual Cultural Fest - Anugoonj, Discipline Head Coordinator in Anugoonj.
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+    - language2:
+      name: Hindi
+      proficiency: Native
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
-      percentage: 90%
-    - skill3:
       name: JavaScript
+      percentage: 80%
+    - skill2:
+      name: React JS
+      percentage: 70%
+    - skill3:
+      name: React Native
       percentage: 70%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: Angular
+      percentage: 60%
     - skill5:
-      name: Java/Java EE
+      name: HTML
+      percentage: 100%
+    - skill6:
+      name: CSS
+      percentage: 90%
+    - skill7:
+      name: Bootstrap
       percentage: 90%
